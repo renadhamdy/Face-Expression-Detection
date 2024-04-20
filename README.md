@@ -1,0 +1,1 @@
+The objective of this project is to create a model that can automatically detect and classify sad and happy faces in images. By training a deep learning model using a dataset of labeled facial expressions, we can teach the model to recognize patterns and features indicative of different emotions. The model will be built using Convolutional Neural Network (CNN) architecture.
